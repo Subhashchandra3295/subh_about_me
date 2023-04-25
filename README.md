@@ -7,8 +7,8 @@
   
   ![ProgrammerCycleGIF](https://user-images.githubusercontent.com/53113741/209103074-3ffab3db-14f2-4bd4-9ee1-032b5b290a70.gif)
   
-  - 🔭 I’m currently working on <b> Angular, TypeScript, JavaScript, jQuery, HTML/HTML5, CSS3/SCSS, Bootstrap, AJAX, PHP(CodeIgniter), MySQL, SQL, REST APIs. </b> 
-  - 🌱 I’m currently learning <b> React.js, Laravel, Symfony, veujs, Node.js.</b>
+  - 🔭 I’m currently working on <b> Angular, TypeScript, JavaScript, jQuery, HTML/HTML5, CSS3/SCSS, Bootstrap, AJAX, PHP(CodeIgniter, Smarty), MySQL, SQL, REST APIs. </b> 
+  - 🌱 I’m currently learning <b> React.js, Laravel, Symfony, veu.js, Node.js.</b>
   - 👯 I’m looking to collaborate on web development.
   - 📫 How to reach me: <a href='https://www.linkedin.com/in/subhashchandra-borad/'>LinkedIn</a> or <a href="mailto:subhashchandraborad3295@gmail.com">Gmail</a>
 
